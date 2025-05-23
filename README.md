@@ -14,11 +14,13 @@ docai/
     │   ├── api.py  
     │   ├── chroma.py  
     │   ├── config.py  
-    │   └── dependencies.py  
-    ├── document_processor.py  
-    ├── llm.py  
-    ├── rag_chain.py  
-    ├── main.py        # FastAPI entry point  
+    │   ├── dependencies.py
+    │   ├── document_processor.py
+    │   ├── llm.py  
+    │   ├── main.py          # FastAPI entry point  
+    │   └── rag_chain.py  
+    │   
+    │    
     ├── requirements.txt  
     └── README.md  
 
